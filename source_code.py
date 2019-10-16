@@ -5,6 +5,10 @@ Created on Wed Oct 16 13:33:29 2019
 @author: David
 """
 
+"""
+*** View README.md for full documentation ***
+"""
+
 import pandas as pd
 import numpy as np 
 from sklearn.model_selection import train_test_split
